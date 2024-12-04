@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Recipes - Gingerbread</title>
+</head>
+<body>
+    <h1>
+        Gingerbread Cookies
+    </h1>
+    <img src="../odin-links-and-images/images/TomizChocolateAlmond.png" width= "446">
+    <h3>Description</h3>
+    <p>The high point of this recipe is the fragance of roasted almonds. </p>
+    <h3>Ingredients</h3>
+    <ol>
+        <li>All-purpose flour (Ecrichure, Nisshin Seifun)</li>
+        <li>Powdered sugar</li>
+        <li>Blanched almond flour</li>
+        <li>Salt (Shima Mars)</li>
+        <li>Egg yolk (M) - 1 piece</li>
+        <li>Yotsuba butter (unsalted)</li>
+        <li>Pure cocoa powder</li>
+        <li>Whole raw almonds</li>
+    </ul>
+    <h3>Steps</h3>
+    <ol>
+        <li>Measure the ingredients and chill everything.</li>
+        <li>Preheat the oven to 170 degrees Celsius.</li>
+        <li>Roast the almonds with skin at 170 degrees Celsius for 10 to 15 minutes until they are well colored inside when cracked.</li>
+        <li>Sift together cake flour, powdered sugar, salt, almond flour, and cocoa powder, and chill.</li>
+        <li>Cut the butter into 1 cm cubes and chill it as well.</li>
+        <li>Place the ingredients into a food processor and blend them together.</li>
+        <li>Stop when it's as fine as grated cheese.</li>
+        <li>Be sure to turn it on and off while processing.</li>
+        <li>Add the egg yolk and mix until it starts to clump together like crumbs, then stop.</li>
+        <li>Transfer to a bowl, add the crushed almonds from step 1, and gently mix to shape the dough.</li>
+        <li>Shape the dough into a tube and place it on baking paper; use a flat object to press it into a round tube shape.</li>
+        <li>Chill the shaped dough well and let it rest.</li>
+        <li>Preheat the oven to 150 degrees Celsius according to the baking timing.</li>
+        <li>Lightly brush the surface with water, roll in granulated sugar for coating, and cut into 7mm to 1cm thick pieces to arrange on a Silpat-lined baking sheet.</li>
+        <li>Bake in the preheated oven at 150 degrees Celsius for 17 minutes, then turn them around and bake for 5 more minutes.</li>
+        <li>Once baked and cooled, it's complete.</li>
+      </ol>
+      
+      
+</html>
