@@ -3,25 +3,9 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>My Recipes - Chocolate Almond Sable</title>
+    <title>Document</title>
 </head>
 <body>
-    <h1>
-        Cardamon Coffee Cookies
-    </h1>
-    <img src="coffeecookie.jpg" width= "446">
-    <h3>Description</h3>
-    <p>This recipe uses cardamom, known as the queen of spices. Cardamom is said to improve digestive and respiratory issues and, with its refreshing aroma, is also believed to have a calming effect. It pairs perfectly with coffee. Enjoy the delightful texture of the cardamom seeds </p>
-    <a href="https://tomiz.com/recipe/pro/detail/20221116015423" target="_blank" rel="noopener noreferer">Source</a>
-    <h3>Ingredients</h3>
-    <ul>
-        <li>Lavie Fermented Butter (Unsalted) AOP - 85g</li>
-        <li>Suzuran Granulated Sugar (100% Beet) - 50g</li>
-        <li>Organic JAS Instant Coffee - 1 teaspoon</li>
-        <li>Boiling Water - 1 teaspoon</li>
-        <li>Organic Cardamom Seeds - 4 seeds</li>
-        <li>Weak Flour (Dolce (Ebetsu Seifun))</li>
-      </ul>
     <h3>Steps</h3>
     <ol>
         <li>Bring the butter to room temperature to soften.</li>
@@ -38,6 +22,5 @@
         <li>Cut the dough into 1 cm slices.</li>
         <li>Place the slices on a baking sheet lined with parchment paper and bake in the preheated oven at 180°C for about 15 minutes. Once baked, transfer to a cake cooler or similar to cool slightly before serving.</li>
       </ol>
-      
-      
+</body>
 </html>
